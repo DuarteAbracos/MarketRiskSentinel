@@ -25,7 +25,7 @@ The system follows a dual-layer architecture to optimize the **Critical Executio
 gcc src/c_core/risk_engine.c -o risk_engine
 
 # Run the memory simulation
-./risk_engine
-
+'./risk_engine'
+```
 
 Developed by Duarte Abraços as part of a research initiative into High-Frequency Risk Systems.
