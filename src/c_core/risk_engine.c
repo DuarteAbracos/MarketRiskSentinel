@@ -15,7 +15,7 @@ double calculate_mean(double* returns, int size){
     return sum / size;
 }
 
-int main() {
+/* int main() {
     //Definir o tamanho do monstro
     int  simulations = 1000000; // 1 milhão de cenários
 
@@ -51,3 +51,4 @@ int main() {
     printf("Memória libertada, sem leaks!n");
     return 0;
 }
+*/
